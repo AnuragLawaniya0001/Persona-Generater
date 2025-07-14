@@ -108,7 +108,7 @@ def run(profile_url, api_key):
 
 if __name__ == "__main__":
     profile_url = "https://www.reddit.com/user/kojied/"
-    api_key = "AIzaSyBdczkfr5YO7VPz-KR0_EwHa6cTGaoaps0" 
+    api_key = "xxxxxxxxxxxxxxxxxxxxxxxx" #use your own api
     run(profile_url, api_key)
 
 
